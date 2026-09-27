@@ -71,6 +71,8 @@ Embarked was encoded as:
 A histogram with KDE was created to visualize the age distribution
 of Titanic passengers.
 
+![Age Distribution](age_distribution.png)
+
 ## Result
 
 The Titanic dataset was cleaned, encoded, visualized, and exported
